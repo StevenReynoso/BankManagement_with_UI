@@ -4,10 +4,9 @@ BankManagement app that displays employees and can update their status using tki
 # Employee Management System
 
 This is a simple Employee Management System implemented using Python and Tkinter for the GUI. The program allows you to add, promote, remove, and display employees in a MySQL database.
+<a href="https://gyazo.com/af2ac32d0b5671cc7a8eaa426ff853be"><img src="https://i.gyazo.com/af2ac32d0b5671cc7a8eaa426ff853be.png" alt="Image from Gyazo" width="796.6666666666666"/></a>
+<a href="https://gyazo.com/689e7b4139e441c43e02b54cf103c9fc"><img src="https://i.gyazo.com/689e7b4139e441c43e02b54cf103c9fc.jpg" alt="Image from Gyazo" width="610.6666666666666"/></a>
 
-<img width="300" alt="4dbe77b04039effe64d785b8c0b2d19b" src="https://github.com/StevenReynoso/BankManagement_with_UI/assets/114453891/1889a7b3-a213-48ed-8f16-2c8e2bf8626f">
-
-<img width="300" alt="1f3f29ad925409c7429a2b5c3e6c1e80" src="https://github.com/StevenReynoso/BankManagement_with_UI/assets/114453891/36e88a89-6dda-44e2-96b4-33a33034c089">
 
 ## Prerequisites
 
